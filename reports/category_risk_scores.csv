@@ -1,0 +1,25 @@
+therapeutic_category,n_shortage_records,n_current,n_discontinuing,shortage_severity,mapped_surveillance_network,seasonal_cv,category_risk_score
+Pediatric,294,274,12,0.9728,RSV-NET,1.234,98.4
+Antiviral,17,2,15,1.0,Combined,0.845,93.8
+Anti-Infective,101,46,54,0.9901,Combined,0.845,93.2
+Pulmonary/Allergy,51,38,5,0.8431,Combined,0.845,84.4
+Anesthesia,372,347,25,1.0,,,60.0
+Other,134,103,31,1.0,,,60.0
+Cardiovascular,161,99,62,1.0,,,60.0
+Analgesia/Addiction,164,128,36,1.0,,,60.0
+Total Parenteral Nutrition,15,15,0,1.0,,,60.0
+Medical Imaging,15,3,12,1.0,,,60.0
+Psychiatry,275,260,15,1.0,,,60.0
+Musculoskeletal,6,0,6,1.0,,,60.0
+Reproductive,1,0,1,1.0,,,60.0
+Transplant,11,0,11,1.0,,,60.0
+Urology,1,0,1,1.0,,,60.0
+Neurology,177,128,41,0.9548,,,57.3
+Gastroenterology,177,137,32,0.9548,,,57.3
+Endocrinology/Metabolism,156,111,37,0.9487,,,56.9
+Oncology,134,85,41,0.9403,,,56.4
+Rheumatology,95,57,30,0.9158,,,54.9
+Hematology,52,31,13,0.8462,,,50.8
+Renal,50,9,33,0.84,,,50.4
+Dermatology,35,19,8,0.7714,,,46.3
+Ophthalmology,38,21,8,0.7632,,,45.8

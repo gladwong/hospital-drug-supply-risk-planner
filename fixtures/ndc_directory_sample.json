@@ -1,0 +1,52 @@
+[
+  {
+    "product_ndc": "0703-4246",
+    "generic_name": "Carboplatin",
+    "labeler_name": "Teva Parenteral Medicines, Inc.",
+    "brand_name": "Carboplatin",
+    "active_ingredients": [{"name": "CARBOPLATIN", "strength": "10 mg/mL"}],
+    "finished": true,
+    "packaging": [
+      {"package_ndc": "0703-4246-81", "description": "1 VIAL, MULTI-DOSE in 1 CARTON (0703-4246-81)  / 15 mL in 1 VIAL, MULTI-DOSE", "marketing_start_date": "20151125", "sample": false}
+    ],
+    "listing_expiration_date": "20261231",
+    "openfda": {
+      "manufacturer_name": ["Teva Parenteral Medicines, Inc."],
+      "rxcui": ["597195"],
+      "unii": ["BG3F62OND5"]
+    },
+    "marketing_category": "ANDA",
+    "dosage_form": "INJECTION, SOLUTION",
+    "product_type": "HUMAN PRESCRIPTION DRUG",
+    "route": ["INTRAVENOUS"],
+    "marketing_start_date": "20151125",
+    "application_number": "ANDA077269",
+    "brand_name_base": "Carboplatin",
+    "pharm_class": ["Platinum-based Drug [EPC]", "Platinum-containing Compounds [EXT]"]
+  },
+  {
+    "product_ndc": "0703-4246",
+    "generic_name": "CARBOplatin",
+    "labeler_name": "Teva Parenteral Medicines, Inc.",
+    "brand_name": "CARBOplatin",
+    "active_ingredients": [{"name": "CARBOPLATIN", "strength": "10 mg/mL"}],
+    "finished": true,
+    "packaging": [
+      {"package_ndc": "0703-4246-01", "description": "1 VIAL, MULTI-DOSE in 1 CARTON (0703-4246-01)  / 15 mL in 1 VIAL, MULTI-DOSE", "marketing_start_date": "20060501", "sample": false}
+    ],
+    "listing_expiration_date": "20261231",
+    "openfda": {
+      "manufacturer_name": ["Teva Parenteral Medicines, Inc."],
+      "rxcui": ["597195"],
+      "unii": ["BG3F62OND5"]
+    },
+    "marketing_category": "ANDA",
+    "dosage_form": "INJECTION, SOLUTION",
+    "product_type": "HUMAN PRESCRIPTION DRUG",
+    "route": ["INTRAVENOUS"],
+    "marketing_start_date": "20060501",
+    "application_number": "ANDA077269",
+    "brand_name_base": "CARBOplatin",
+    "pharm_class": ["Platinum-based Drug [EPC]", "Platinum-containing Compounds [EXT]"]
+  }
+]

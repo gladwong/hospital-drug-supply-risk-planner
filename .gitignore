@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# large raw/derived data, not source -- regenerate via src/ scripts
+data/raw/
+db/*.duckdb
+db/*.wal
+db/_stale_wal_files_safe_to_delete/
+
+.ipynb_checkpoints/
+.DS_Store

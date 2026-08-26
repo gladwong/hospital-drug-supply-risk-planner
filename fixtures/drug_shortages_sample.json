@@ -1,0 +1,45 @@
+[
+  {
+    "update_type": "Revised",
+    "initial_posting_date": "04/28/2023",
+    "package_ndc": "0703-4246-01",
+    "generic_name": "Carboplatin Injection",
+    "contact_info": "800-545-8800",
+    "availability": "Available",
+    "update_date": "05/08/2026",
+    "therapeutic_category": ["Oncology"],
+    "dosage_form": "Injection",
+    "presentation": "Carboplatin, Injection, 10 mg/1 mL (NDC 0703-4246-01)",
+    "company_name": "Teva Pharmaceuticals USA, Inc.",
+    "status": "Current"
+  },
+  {
+    "update_type": "Reverified",
+    "initial_posting_date": "12/22/2021",
+    "package_ndc": "42806-799-60",
+    "generic_name": "Rifampin Capsule",
+    "contact_info": "(718) 276-8600 ext. 3",
+    "availability": "Available",
+    "update_date": "05/18/2026",
+    "therapeutic_category": ["Anti-Infective"],
+    "dosage_form": "Capsule",
+    "presentation": "Rifampin, Capsule, 300 mg (NDC 42806-799-60)",
+    "company_name": "Epic Pharma, LLC",
+    "status": "Current"
+  },
+  {
+    "discontinued_date": "06/13/2025",
+    "update_type": "New",
+    "initial_posting_date": "06/13/2025",
+    "package_ndc": "13668-385-90",
+    "generic_name": "Amlodipine Besylate; Hydrochlorothiazide; Olmesartan Medoxomil Tablet",
+    "contact_info": "908-280-3333",
+    "related_info": "A business decision was made to discontinue manufacture of the product.",
+    "update_date": "06/13/2025",
+    "therapeutic_category": ["Cardiovascular"],
+    "dosage_form": "Tablet",
+    "presentation": "Amlodipine Besylate; Hydrochlorothiazide; Olmesartan Medoxomil, Tablet, 5 mg; 25 mg; 40 mg (NDC 13668-385-90)",
+    "company_name": "Torrent Pharma Inc.",
+    "status": "To Be Discontinued"
+  }
+]
