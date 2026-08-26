@@ -98,6 +98,13 @@ dashboard, and write-up. See [`docs/DEVLOG.md`](docs/DEVLOG.md) for the full
 build log, including two real correctness bugs found and fixed against live
 API data.
 
+## Future work
+
+A natural next step is automating this into a hospital's existing inventory
+or supply chain management (SCM) system, so reorder points and high-risk
+alerts get pushed directly into the workflow a pharmacy team already uses,
+instead of requiring someone to check a separate dashboard.
+
 ## Notes
 
 Full credentialed MIMIC-IV access (364,627 patients vs. the demo's 100) is
