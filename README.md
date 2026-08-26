@@ -19,8 +19,8 @@ high-risk items can be flagged before they run out.
 
 | Source | What | Volume |
 |---|---|---|
-| [openFDA Drug Shortages](https://open.fda.gov/apis/drug/shortages/) | Active/resolved/discontinuing shortage records | 1,581 records, 24 therapeutic categories |
-| [CDC RESP-NET](https://www.cdc.gov/surveillance/respnet/) | Seasonal respiratory illness surveillance | 59,525 rows, 4 networks, 2018–2026 |
+| [openFDA Drug Shortages](https://open.fda.gov/apis/drug/drugshortages) | Active/resolved/discontinuing shortage records | 1,581 records, 24 therapeutic categories |
+| [CDC RESP-NET](https://www.cdc.gov/resp-net/dashboard/) | Seasonal respiratory illness surveillance | 59,525 rows, 4 networks, 2018–2026 |
 | [FDA NDC Directory](https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory) | Backfills proprietary drug names | 1,676 rows, 1,369/1,581 shortages matched |
 | [MIMIC-IV Clinical Database Demo](https://physionet.org/content/mimic-iv-demo/2.2/) (PhysioNet, MIT/Beth Israel Deaconess) | Real per-drug hospital demand | 71 drug-week demand rows from 1,374/18,087 matched prescriptions |
 
