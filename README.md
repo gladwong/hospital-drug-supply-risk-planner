@@ -7,6 +7,10 @@ data** (no synthetic or demo placeholders in the final pipeline).
 
 ![Dashboard](reports/screenshots/dashboard.png)
 
+**Dashboard in action** — filtering by category updates every visual:
+
+![Dashboard demo](reports/screenshots/dashboard_demo.gif)
+
 ## What it does
 
 Hospitals usually find out about a drug shortage after it has already
